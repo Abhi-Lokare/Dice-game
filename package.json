@@ -10,6 +10,7 @@
     "postcss-simple-vars": "^4.1.0"
   },
   "dependencies": {
+    "postcss-import": "^11.1.0",
     "postcss-nested": "^3.0.0"
   }
 }
